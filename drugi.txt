@@ -1,3 +1,4 @@
 drugi plik, i wartosc w nim 
 druga wiadomosc
-proba git update
+proba git updat
+kokodksodkase kolejna zmiana tutaj
