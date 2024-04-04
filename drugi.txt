@@ -1,4 +1,4 @@
 drugi plik, i wartosc w nim 
 druga wiadomosc
 proba git updat
-ssh tera dsadsaddsadsadasdasasdzdsadsadsa
+ssh tera dsadsaddsadsadasdasasdzdsadsads dsadsadsadasa
