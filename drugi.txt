@@ -1,2 +1,3 @@
 drugi plik, i wartosc w nim 
 druga wiadomosc
+proba git update
